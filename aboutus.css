@@ -1,0 +1,18 @@
+h1{
+    font-size: 100px;
+    font-family:sans-serif;
+    padding: 20px;
+    margin-bottom: 10px;
+    background-color: #0ad2f590;
+    text-transform: uppercase;
+    
+    
+}
+
+h3{
+    font-size: 40px;
+    font-family:sans-serif;
+    background-image:url(bgimg.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+}
